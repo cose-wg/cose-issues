@@ -20,4 +20,4 @@ Statements made outside of an IETF session, mailing list or other function, that
 
 A participant in any IETF activity is deemed to accept all IETF rules of process, as documented in Best Current Practices RFCs and IESG Statements.
 
-A participant in any IETF activity acknowledges that written, audio and video records of meetings may be made and may be available to the public.
+A participant in any IETF activity acknowledges that written, audio and video records of meetings may be made and may be available to the public.
